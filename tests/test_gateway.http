@@ -1,0 +1,56 @@
+### Send POST request with json body
+POST http://127.0.0.1:8000/
+Content-Type: application/json
+Auth: Basic
+
+{
+  "value": "content"
+}
+
+### Send POST request with json body
+POST http://127.0.0.1:8000/
+Content-Type: application/json
+
+{
+  "value": "content"
+}
+
+### Send POST request with json body
+POST http://127.0.0.1:8000/
+Content-Type: application/json
+
+{
+  "value": "content1"
+}
+
+### Send POST request with json body
+POST http://127.0.0.1:8000/
+Content-Type: application/json
+
+{
+  "value": "content"
+}
+
+### Send POST request with json body
+POST http://127.0.0.1:8000/
+Content-Type: application/json
+
+{
+  "value": "content3"
+}
+
+### Send POST request with json body
+POST http://127.0.0.1:8000/
+Content-Type: application/json
+
+{
+  "value": "content4"
+}
+
+### Send POST request with json body
+POST http://127.0.0.1:8000/
+Content-Type: application/json
+
+{
+  "value": "content5"
+}

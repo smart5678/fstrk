@@ -1,0 +1,10 @@
+celery[redis]==5.3.6
+Django==5.0.2
+djangorestframework==3.14.0
+gunicorn==21.2.0
+mock==5.1.0
+pytest==8.0.2
+pytest-celery==0.0.0
+pytest-django==4.8.0
+python-dotenv==1.0.1
+requests==2.31.0
